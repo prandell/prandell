@@ -1,12 +1,20 @@
-Hi 👋 My name is Patrick Randell
-================================
+<h1 align="center">
+    Patrick Randell
+</h1>
+<h3 align="center">
+    Full-Stack Developer and Platform Engineer
+</h3>
 
-Full-stack Developer and Platform Engineer
-------------------------------------------
+
+<div align="center">
+  <p align="left"> 
+      <img src="https://komarev.com/ghpvc/?username=prandell&label=Profile%20views&color=0e75b6&style=flat" alt="prandell" /> 
+  </p>
+</div>
 
 Worked for 3 years primarily as a backend software engineer in NestJs, Python, and Java, with about half as much time in a product-based team doing full-stack development. More recently leading a team of FEDs delivering a large-scale Nextjs + Recoil project.
 
-* 🌍  I'm based in Melbourne
+* 🌍  I'm based in Perth, trying to move to Vancouver (Let me know if you can help!)
 * 🖥️  See my portfolio at [prandell.app](http://prandell.app)
 * ✉️  You can contact me at [patrickrandell@outlook.com](mailto:patrickrandell@outlook.com)
 * 🧠  I'm learning GraphQL, NextJs and MapBox
