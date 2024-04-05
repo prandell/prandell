@@ -2,7 +2,7 @@
     Patrick Randell
 </h1>
 <h3 align="center">
-    Full-Stack Developer and Platform Engineer
+    Full-Stack Developer
 </h3>
 
 
@@ -12,12 +12,12 @@
   </p>
 </div>
 
-Worked for 3 years primarily as a backend software engineer in NestJs, Python, and Java, with about half as much time in a product-based team doing full-stack development. More recently leading a team of FEDs delivering a large-scale Nextjs + Recoil project.
+4 years of experience as a full-stack developer, primarily in Typescript, React, Python & SQL.
 
-* 🌍  I'm based in Perth, trying to move to Vancouver (Let me know if you can help!)
+* 🌍  Based in Melbourne
 * 🖥️  See my portfolio at [prandell.app](http://prandell.app)
 * ✉️  You can contact me at [patrickrandell@outlook.com](mailto:patrickrandell@outlook.com)
-* 🧠  I'm learning GraphQL, NextJs and MapBox
+* 🧠  I'm learning Rust
 * ⚡  Industry knowledge of Supply Chains
 
 ### Skills
