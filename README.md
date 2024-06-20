@@ -2,7 +2,7 @@
     Patrick Randell
 </h1>
 <h3 align="center">
-    Full-Stack Developer
+    Full-Stack + Solana Developer
 </h3>
 
 
@@ -12,13 +12,12 @@
   </p>
 </div>
 
-4 years of experience as a full-stack developer, primarily in Typescript, React, Python & SQL.
+4 years of experience as a full-stack developer, primarily in Typescript, React.
 
 * 🌍  Based in Melbourne
 * 🖥️  See my portfolio at [prandell.app](http://prandell.app)
 * ✉️  You can contact me at [patrickrandell@outlook.com](mailto:patrickrandell@outlook.com)
-* 🧠  I'm learning Rust
-* ⚡  Industry knowledge of Supply Chains
+* 🧠  I'm learning Solana
 
 ### Skills
 
